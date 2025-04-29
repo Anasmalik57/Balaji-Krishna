@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { IoClose } from 'react-icons/io5';
-import logo from "/logo.jpeg";
+import logo from "/logo.jpg";
 
 // Icon images
 import callbackIcon from '/call.png';
